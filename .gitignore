@@ -1,0 +1,4 @@
+expense.json
+__pycache__/
+*.pyc
+*.pyo
