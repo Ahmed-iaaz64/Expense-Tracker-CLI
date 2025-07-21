@@ -1,6 +1,7 @@
 # Expense Tracker
 
 A simple command-line expense tracking tool built with Python.
+Made for [roadmap.sh](https://roadmap.sh/projects/expense-tracker)
 
 ## Features
 
